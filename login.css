@@ -1,0 +1,147 @@
+body
+
+{
+
+    background: url(images/princes-pier-269647_960_720.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: 100% 100%;
+
+    -moz-background-size: 100% 100%;
+
+    -o-background-size: 100% 100%;
+
+    background-size: 100% 100%;
+
+    font-family: Cooper Std Black;
+
+}
+
+#kotak
+
+{
+
+    width: 520px;
+
+    height: 260px;
+
+    background: #FFFFFF;
+
+    margin: 150px auto 100px auto;
+
+    border: 3px solid #663366;
+
+    color:#990066;
+
+}
+
+#atas
+
+{
+
+    height: 35px;
+
+    width: 520px;
+
+    text-align: center;
+
+    font-size: 20pt;
+
+    padding-top:20px;
+
+}
+
+#bawah
+
+{
+
+    height: 200px;
+
+    width: 520px;
+
+}
+
+.masuk
+
+{
+
+    width: 400px;
+
+    height:40px;
+
+    margin-top:10px;
+
+    margin-left: 60px;
+
+    font-size: 12pt;
+
+    border: 2px solid #663366;
+
+    padding-left:10px;
+
+    color:#660033;
+
+}
+
+.masuk:focus
+
+{
+
+    width: 400px;
+
+    height:40px;
+
+    margin-top:10px;
+
+    margin-left: 60px;
+
+    font-size: 12pt;
+
+    padding-left:10px;
+
+    color:#660066;
+
+    outline: none;
+
+    box-shadow: 0 0 20px #FF99FF;
+
+}
+
+#tombol
+
+{
+
+    width: 150px;
+
+    height:35px;
+
+    margin-top:10px;
+
+    margin-left: 185px;
+
+    background: #660033;
+
+    border:none;
+
+    color:#fff;
+
+    font-size: 11pt;
+
+    outline:none;
+
+}
+
+#daftar
+
+{font-family: Book Antiqua;
+
+    height: 25px;
+
+    width: 520px;
+
+    text-align: center;
+
+    font-size: 13pt;
+
+    padding-top:13px;
+
+}
