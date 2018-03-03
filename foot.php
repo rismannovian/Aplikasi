@@ -12,7 +12,7 @@
 <div class="container">
 <br>
   <p style="color: #fff">
-  Copyright  &#169;  2018 Designed By Risman Novian 
+  Copyright  &#169;  2018 Designed By Andi
   </p>
 
 </div>
